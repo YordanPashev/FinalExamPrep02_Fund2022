@@ -125,7 +125,6 @@ namespace P03.PlantDiscovery
                 if (totalRaitingCount != 0 || totalRaitingSum != 0)
                 {
                     averageRaiting = totalRaitingSum / totalRaitingCount;
-
                 }
 
                 Console.WriteLine($" - {plantName}; Rarity: {rarity}; Rating: {averageRaiting:F2}");
