@@ -13,20 +13,18 @@ namespace P03.PlantDiscovery
                 this.Name = name;
                 this.Rarity = rarity;
             }
-            public Plant(string name, int rarity, int raiting, int raitingItterations)
+            public Plant(string name, int rarity, List<int> raiting)
             {
                 this.Name = name;
                 this.Rarity = rarity;
-                this.Raiting = raiting;
-                this.RaitingCounter = raitingItterations;
+                this.Rating = raiting;
             }
             public string Name { get; set; }
 
             public int Rarity { get; set; }
 
-            public int Raiting { get; set; }
+            public List<int> Rating { get; set; }
 
-            public int RaitingCounter { get; set; }
         }
         static void Main(string[] args)
         {
@@ -79,9 +77,8 @@ namespace P03.PlantDiscovery
             else
             {
                 List<int> currPlatSpecifications = new List<int>();
-                int rating = 0;
-                int raitingCOunter = 0;
-                Plant currPlantInfo = new Plant(nameToAdd, rarity, rating, raitingCOunter);
+                List<int> rating = new List<int>();
+                Plant currPlantInfo = new Plant(nameToAdd, rarity, rating);
                 listOfAllPlants.Add(nameToAdd, currPlantInfo);
             }
         }
@@ -93,8 +90,7 @@ namespace P03.PlantDiscovery
             if (action == "Rate")
             {
                 int raiting = int.Parse(cmdArgs[2]);
-                listOfAllPlants[currPlantName].Raiting += raiting;
-                listOfAllPlants[currPlantName].RaitingCounter += 1;
+                listOfAllPlants[currPlantName].Rating.Add(raiting);
             }
 
             else if (action == "Update")
@@ -105,8 +101,8 @@ namespace P03.PlantDiscovery
 
             else if (action == "Reset")
             {
-                listOfAllPlants[currPlantName].Raiting = 0;
-                listOfAllPlants[currPlantName].RaitingCounter = 0;
+                listOfAllPlants[currPlantName].Rating.Clear();
+
             }
         }
 
@@ -119,12 +115,10 @@ namespace P03.PlantDiscovery
             {
                 string plantName = plant.Key;
                 int rarity = plant.Value.Rarity;
-                double totalRaitingSum = plant.Value.Raiting;
-                double totalRaitingCount = plant.Value.RaitingCounter;
 
-                if (totalRaitingCount != 0 || totalRaitingSum != 0)
+                if (plant.Value.Rating.Count != 0)
                 {
-                    averageRaiting = totalRaitingSum / totalRaitingCount;
+                    averageRaiting = plant.Value.Rating.Average();
                 }
 
                 Console.WriteLine($" - {plantName}; Rarity: {rarity}; Rating: {averageRaiting:F2}");
