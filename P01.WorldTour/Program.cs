@@ -41,9 +41,9 @@ namespace P01.WorldTour
         static string AddLocation(string stops, string[] cmdArgs)
         {
             int index = int.Parse(cmdArgs[1]);
-
+        
             if (stops.Length > index && index >= 0)
-            { 
+            {
                 string locationToAdd = cmdArgs[2];
                 stops = stops.Insert(index, locationToAdd);
             }
@@ -69,11 +69,7 @@ namespace P01.WorldTour
             string oldSubstring = cmdArgs[1];
             string newString = cmdArgs[2];
 
-            if (stops.Contains(oldSubstring))
-            {
-                stops = stops.Replace(oldSubstring, newString);
-            }
-
+            stops = stops.Replace(oldSubstring, newString);
             return stops;
         }
     }
