@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fdb2017-3f6e-4a74-bdd9-d009fdee869c": {
+      "ProjectGuid": "5fdb2017-3f6e-4a74-bdd9-d009fdee869c",
+      "DisplayName": "P01.WorldTour",
+      "ColorIndex": 0
+    },
+    "2f84ddde-0cf2-4825-bd36-c7be07c148cd": {
+      "ProjectGuid": "2f84ddde-0cf2-4825-bd36-c7be07c148cd",
+      "DisplayName": "P02.DestinationMapper",
+      "ColorIndex": 1
+    },
+    "a0517072-bf9f-4495-bb7d-518b954a5e71": {
+      "ProjectGuid": "a0517072-bf9f-4495-bb7d-518b954a5e71",
+      "DisplayName": "P03.PlantDiscovery",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
