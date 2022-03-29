@@ -15,7 +15,12 @@
       "ProjectGuid": "a0517072-bf9f-4495-bb7d-518b954a5e71",
       "DisplayName": "P03.PlantDiscovery",
       "ColorIndex": 2
+    },
+    "573f29f4-6274-43aa-aaf7-c17fc1a3a671": {
+      "ProjectGuid": "573f29f4-6274-43aa-aaf7-c17fc1a3a671",
+      "DisplayName": "P02.EmojiDetector",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
