@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.EmojiDetector", "P02.Em
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Pirates", "P03.Pirates\P03.Pirates.csproj", "{A3327FD0-C6F3-4278-86CB-AE6A097F4D56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ActivationKey", "P01.ActivationKey\P01.ActivationKey.csproj", "{D0A065F5-E2DB-405A-A21B-172FB8436C6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A3327FD0-C6F3-4278-86CB-AE6A097F4D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3327FD0-C6F3-4278-86CB-AE6A097F4D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3327FD0-C6F3-4278-86CB-AE6A097F4D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A065F5-E2DB-405A-A21B-172FB8436C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A065F5-E2DB-405A-A21B-172FB8436C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A065F5-E2DB-405A-A21B-172FB8436C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A065F5-E2DB-405A-A21B-172FB8436C6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
