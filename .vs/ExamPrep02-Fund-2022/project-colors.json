@@ -40,7 +40,12 @@
       "ProjectGuid": "34d2144b-5e22-40c1-b3c6-3da7263aaa0b",
       "DisplayName": "P02.FancyBarcodes",
       "ColorIndex": 7
+    },
+    "57173461-827d-4fd5-bce2-57b2ca25539c": {
+      "ProjectGuid": "57173461-827d-4fd5-bce2-57b2ca25539c",
+      "DisplayName": "P02.FancyBarcodes",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
