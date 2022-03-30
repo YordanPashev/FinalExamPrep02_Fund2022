@@ -13,8 +13,7 @@ namespace P02.FancyBarcodes
         {
             int numberOfLines = int.Parse(Console.ReadLine());
 
-            string validBarcodePattern = @"^(@[#]+)([A-Z][a-zA-Z0-9]{4,}[A-Z])(@[#]+)$";
-            Regex regexBarcodeValidation = new Regex(validBarcodePattern);
+            Regex regexBarcodeValidation = new Regex(@"^(@[#]+)([A-Z][a-zA-Z0-9]{4,}[A-Z])(@[#]+)$");
 
             string digitPattern = @"[0-9]+";
             Regex regexForDigits = new Regex(digitPattern);
