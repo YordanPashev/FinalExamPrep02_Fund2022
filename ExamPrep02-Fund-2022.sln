@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.PlantDiscovery", "P03.P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.EmojiDetector", "P02.EmojiDetector\P02.EmojiDetector.csproj", "{573F29F4-6274-43AA-AAF7-C17FC1A3A671}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Pirates", "P03.Pirates\P03.Pirates.csproj", "{A3327FD0-C6F3-4278-86CB-AE6A097F4D56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03.Pirates", "P03.Pirates\P03.Pirates.csproj", "{A3327FD0-C6F3-4278-86CB-AE6A097F4D56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ActivationKey", "P01.ActivationKey\P01.ActivationKey.csproj", "{D0A065F5-E2DB-405A-A21B-172FB8436C6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.ActivationKey", "P01.ActivationKey\P01.ActivationKey.csproj", "{D0A065F5-E2DB-405A-A21B-172FB8436C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.FancyBarcodes", "P02.FancyBarcodes\P02.FancyBarcodes.csproj", "{57173461-827D-4FD5-BCE2-57B2CA25539C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D0A065F5-E2DB-405A-A21B-172FB8436C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A065F5-E2DB-405A-A21B-172FB8436C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A065F5-E2DB-405A-A21B-172FB8436C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57173461-827D-4FD5-BCE2-57B2CA25539C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57173461-827D-4FD5-BCE2-57B2CA25539C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57173461-827D-4FD5-BCE2-57B2CA25539C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57173461-827D-4FD5-BCE2-57B2CA25539C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

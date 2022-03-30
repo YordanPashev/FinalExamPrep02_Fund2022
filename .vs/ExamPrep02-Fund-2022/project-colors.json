@@ -20,7 +20,27 @@
       "ProjectGuid": "573f29f4-6274-43aa-aaf7-c17fc1a3a671",
       "DisplayName": "P02.EmojiDetector",
       "ColorIndex": 3
+    },
+    "b7ae9149-2c55-4f3a-9e4d-537bd7d88791": {
+      "ProjectGuid": "b7ae9149-2c55-4f3a-9e4d-537bd7d88791",
+      "DisplayName": "P03.Pirates",
+      "ColorIndex": 4
+    },
+    "a3327fd0-c6f3-4278-86cb-ae6a097f4d56": {
+      "ProjectGuid": "a3327fd0-c6f3-4278-86cb-ae6a097f4d56",
+      "DisplayName": "P03.Pirates",
+      "ColorIndex": 5
+    },
+    "d0a065f5-e2db-405a-a21b-172fb8436c6c": {
+      "ProjectGuid": "d0a065f5-e2db-405a-a21b-172fb8436c6c",
+      "DisplayName": "P01.ActivationKey",
+      "ColorIndex": 6
+    },
+    "34d2144b-5e22-40c1-b3c6-3da7263aaa0b": {
+      "ProjectGuid": "34d2144b-5e22-40c1-b3c6-3da7263aaa0b",
+      "DisplayName": "P02.FancyBarcodes",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 8
 }
