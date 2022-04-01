@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a188631-3a9d-4164-bf75-98ca3bbfead1": {
+      "ProjectGuid": "6a188631-3a9d-4164-bf75-98ca3bbfead1",
+      "DisplayName": "P01.GuineaPig",
+      "ColorIndex": 0
+    },
+    "035e5486-7611-46dd-9d57-b673e2a34364": {
+      "ProjectGuid": "035e5486-7611-46dd-9d57-b673e2a34364",
+      "DisplayName": "P01.PasswordReset",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

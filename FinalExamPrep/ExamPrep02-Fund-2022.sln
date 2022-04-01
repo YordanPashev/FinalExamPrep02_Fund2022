@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.ActivationKey", "P01.Ac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02.FancyBarcodes", "P02.FancyBarcodes\P02.FancyBarcodes.csproj", "{57173461-827D-4FD5-BCE2-57B2CA25539C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.GuineaPig", "P01.GuineaPig\P01.GuineaPig.csproj", "{6A188631-3A9D-4164-BF75-98CA3BBFEAD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.GuineaPig", "P01.GuineaPig\P01.GuineaPig.csproj", "{6A188631-3A9D-4164-BF75-98CA3BBFEAD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.PasswordReset", "P01.PasswordReset\P01.PasswordReset.csproj", "{035E5486-7611-46DD-9D57-B673E2A34364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01.PasswordReset", "P01.PasswordReset\P01.PasswordReset.csproj", "{035E5486-7611-46DD-9D57-B673E2A34364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.NeedForSpeed3", "P03.NeedForSpeed3\P03.NeedForSpeed3.csproj", "{4039779D-27BC-4A23-95FF-00BF1EF274AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{035E5486-7611-46DD-9D57-B673E2A34364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{035E5486-7611-46DD-9D57-B673E2A34364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{035E5486-7611-46DD-9D57-B673E2A34364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4039779D-27BC-4A23-95FF-00BF1EF274AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4039779D-27BC-4A23-95FF-00BF1EF274AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4039779D-27BC-4A23-95FF-00BF1EF274AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4039779D-27BC-4A23-95FF-00BF1EF274AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
