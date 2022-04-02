@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.ImitationGame", "P01.Im
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.AddAstra", "P02.AddAstra\P02.AddAstra.csproj", "{9F0CF276-C036-428B-BD01-3AEC6B29A75D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.ThePianist", "P03.ThePianist\P03.ThePianist.csproj", "{40101B88-D00D-4908-B5A4-5053D0278DA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9F0CF276-C036-428B-BD01-3AEC6B29A75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0CF276-C036-428B-BD01-3AEC6B29A75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F0CF276-C036-428B-BD01-3AEC6B29A75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40101B88-D00D-4908-B5A4-5053D0278DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40101B88-D00D-4908-B5A4-5053D0278DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40101B88-D00D-4908-B5A4-5053D0278DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40101B88-D00D-4908-B5A4-5053D0278DA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
