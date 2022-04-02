@@ -10,7 +10,12 @@
       "ProjectGuid": "035e5486-7611-46dd-9d57-b673e2a34364",
       "DisplayName": "P01.PasswordReset",
       "ColorIndex": 1
+    },
+    "4039779d-27bc-4a23-95ff-00bf1ef274ad": {
+      "ProjectGuid": "4039779d-27bc-4a23-95ff-00bf1ef274ad",
+      "DisplayName": "P03.NeedForSpeed3",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
