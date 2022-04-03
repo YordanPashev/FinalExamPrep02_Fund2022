@@ -15,7 +15,22 @@
       "ProjectGuid": "4039779d-27bc-4a23-95ff-00bf1ef274ad",
       "DisplayName": "P03.NeedForSpeed3",
       "ColorIndex": 2
+    },
+    "d051641c-8e55-4e5d-ad1b-d31469dfed7a": {
+      "ProjectGuid": "d051641c-8e55-4e5d-ad1b-d31469dfed7a",
+      "DisplayName": "P01.ImitationGame",
+      "ColorIndex": 3
+    },
+    "9f0cf276-c036-428b-bd01-3aec6b29a75d": {
+      "ProjectGuid": "9f0cf276-c036-428b-bd01-3aec6b29a75d",
+      "DisplayName": "P02.AddAstra",
+      "ColorIndex": 4
+    },
+    "40101b88-d00d-4908-b5a4-5053d0278da7": {
+      "ProjectGuid": "40101b88-d00d-4908-b5a4-5053d0278da7",
+      "DisplayName": "P03.ThePianist",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }
