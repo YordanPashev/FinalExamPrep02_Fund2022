@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b479989-f43c-4239-9a1a-04b12393bae6": {
+      "ProjectGuid": "7b479989-f43c-4239-9a1a-04b12393bae6",
+      "DisplayName": "P01.StudentInformation",
+      "ColorIndex": 0
+    },
+    "b535a8f3-6ede-43fd-9895-e10a76c9c657": {
+      "ProjectGuid": "b535a8f3-6ede-43fd-9895-e10a76c9c657",
+      "DisplayName": "P02.Passed",
+      "ColorIndex": 1
+    },
+    "f76fb4ef-04b0-4970-baa7-0b284707e706": {
+      "ProjectGuid": "f76fb4ef-04b0-4970-baa7-0b284707e706",
+      "DisplayName": "P03.PassedOrFailed",
+      "ColorIndex": 2
+    },
+    "404c8a26-3664-4f09-b561-ce9af55c3160": {
+      "ProjectGuid": "404c8a26-3664-4f09-b561-ce9af55c3160",
+      "DisplayName": "P04.BackIn30Minutes",
+      "ColorIndex": 3
+    },
+    "8b557f13-c574-4185-ac64-70342bf030ad": {
+      "ProjectGuid": "8b557f13-c574-4185-ac64-70342bf030ad",
+      "DisplayName": "P05.MonthPrinter",
+      "ColorIndex": 4
+    },
+    "702a224f-14a9-4b5d-92c3-86d41b7a3835": {
+      "ProjectGuid": "702a224f-14a9-4b5d-92c3-86d41b7a3835",
+      "DisplayName": "P05.MonthPrinter",
+      "ColorIndex": 5
+    },
+    "56de3f58-e44b-43b5-9199-1c0cce47c543": {
+      "ProjectGuid": "56de3f58-e44b-43b5-9199-1c0cce47c543",
+      "DisplayName": "P06.ForeignLanguages",
+      "ColorIndex": 6
+    },
+    "708bcb3f-bc83-4c7e-9390-84d51df8a589": {
+      "ProjectGuid": "708bcb3f-bc83-4c7e-9390-84d51df8a589",
+      "DisplayName": "P07.TheatrePromotion",
+      "ColorIndex": 7
+    },
+    "58afd1a8-4520-40a6-bc3d-cd760623f58c": {
+      "ProjectGuid": "58afd1a8-4520-40a6-bc3d-cd760623f58c",
+      "DisplayName": "P08.Divisibleby3",
+      "ColorIndex": 8
+    },
+    "d6803776-2a70-40e8-8cde-a94f2b8604ec": {
+      "ProjectGuid": "d6803776-2a70-40e8-8cde-a94f2b8604ec",
+      "DisplayName": "P09.SumOfOddNumbers",
+      "ColorIndex": 9
+    },
+    "3fdddcce-3c6d-4fba-8fde-e13c1ff649ff": {
+      "ProjectGuid": "3fdddcce-3c6d-4fba-8fde-e13c1ff649ff",
+      "DisplayName": "P10.MultiplicationTable",
+      "ColorIndex": 10
+    },
+    "7028a2f3-c538-4d38-80fd-080a9f459542": {
+      "ProjectGuid": "7028a2f3-c538-4d38-80fd-080a9f459542",
+      "DisplayName": "P11.MultiplicationTable2.0",
+      "ColorIndex": 11
+    },
+    "5059ebd4-5769-423a-bbff-91102d5ce122": {
+      "ProjectGuid": "5059ebd4-5769-423a-bbff-91102d5ce122",
+      "DisplayName": "P12.EvenNumber",
+      "ColorIndex": 12
+    },
+    "303699ea-f40e-4d11-9563-5681fcb12ae6": {
+      "ProjectGuid": "303699ea-f40e-4d11-9563-5681fcb12ae6",
+      "DisplayName": "P13.HolidaysBetweenTwo",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}
