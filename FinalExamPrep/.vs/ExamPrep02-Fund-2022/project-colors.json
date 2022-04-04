@@ -30,7 +30,22 @@
       "ProjectGuid": "40101b88-d00d-4908-b5a4-5053d0278da7",
       "DisplayName": "P03.ThePianist",
       "ColorIndex": 5
+    },
+    "4d307f9c-1990-42ce-b664-9f55a6f73e2e": {
+      "ProjectGuid": "4d307f9c-1990-42ce-b664-9f55a6f73e2e",
+      "DisplayName": "P03.HeroesOfCodeAndLogicVII",
+      "ColorIndex": 6
+    },
+    "d2c46ec8-2644-4aef-adf2-3e2b0e0c6a8b": {
+      "ProjectGuid": "d2c46ec8-2644-4aef-adf2-3e2b0e0c6a8b",
+      "DisplayName": "P02.MirrorWords",
+      "ColorIndex": 7
+    },
+    "57173461-827d-4fd5-bce2-57b2ca25539c": {
+      "ProjectGuid": "57173461-827d-4fd5-bce2-57b2ca25539c",
+      "DisplayName": "P02.FancyBarcodes",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 9
 }

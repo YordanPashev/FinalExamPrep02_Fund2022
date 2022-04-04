@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b479989-f43c-4239-9a1a-04b12393bae6": {
+      "ProjectGuid": "7b479989-f43c-4239-9a1a-04b12393bae6",
+      "DisplayName": "P01.StudentInformation",
+      "ColorIndex": 0
+    },
+    "b535a8f3-6ede-43fd-9895-e10a76c9c657": {
+      "ProjectGuid": "b535a8f3-6ede-43fd-9895-e10a76c9c657",
+      "DisplayName": "P02.Passed",
+      "ColorIndex": 1
+    },
+    "f76fb4ef-04b0-4970-baa7-0b284707e706": {
+      "ProjectGuid": "f76fb4ef-04b0-4970-baa7-0b284707e706",
+      "DisplayName": "P03.PassedOrFailed",
+      "ColorIndex": 2
+    },
+    "404c8a26-3664-4f09-b561-ce9af55c3160": {
+      "ProjectGuid": "404c8a26-3664-4f09-b561-ce9af55c3160",
+      "DisplayName": "P04.BackIn30Minutes",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
