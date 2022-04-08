@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6d407df-4b63-435c-b46d-c1346fa7c387": {
+      "ProjectGuid": "a6d407df-4b63-435c-b46d-c1346fa7c387",
+      "DisplayName": "P01.ConvertMetersToKilometers",
+      "ColorIndex": 0
+    },
+    "e7fac044-9a46-4325-9b93-fd296f2e8198": {
+      "ProjectGuid": "e7fac044-9a46-4325-9b93-fd296f2e8198",
+      "DisplayName": "P02.PoundsToDollars",
+      "ColorIndex": 1
+    },
+    "e662566e-80f1-4851-9357-640298fb07d5": {
+      "ProjectGuid": "e662566e-80f1-4851-9357-640298fb07d5",
+      "DisplayName": "P03.ExactSumOfRealNumbers",
+      "ColorIndex": 2
+    },
+    "1e083a6a-a2e0-4eac-a6ee-47748a7fcbd3": {
+      "ProjectGuid": "1e083a6a-a2e0-4eac-a6ee-47748a7fcbd3",
+      "DisplayName": "P04.CenturiesToMinutes",
+      "ColorIndex": 3
+    },
+    "0d3ec2e8-e06f-4a5d-b572-2839250185bb": {
+      "ProjectGuid": "0d3ec2e8-e06f-4a5d-b572-2839250185bb",
+      "DisplayName": "P05.SpecialNumbers",
+      "ColorIndex": 4
+    },
+    "aae2de1f-6734-4f0f-b849-9480a0434ae1": {
+      "ProjectGuid": "aae2de1f-6734-4f0f-b849-9480a0434ae1",
+      "DisplayName": "P06.ReversedChars",
+      "ColorIndex": 5
+    },
+    "3c79fec9-4c11-4837-8df5-cc15bff01c7b": {
+      "ProjectGuid": "3c79fec9-4c11-4837-8df5-cc15bff01c7b",
+      "DisplayName": "P07.ConcatNamesv",
+      "ColorIndex": 6
+    },
+    "7f97df64-a9de-4aab-bfc6-e75ecc7ffbfb": {
+      "ProjectGuid": "7f97df64-a9de-4aab-bfc6-e75ecc7ffbfb",
+      "DisplayName": "P08.TownInfo",
+      "ColorIndex": 7
+    },
+    "1c9503dd-0217-4521-83c3-cacf80dc98a0": {
+      "ProjectGuid": "1c9503dd-0217-4521-83c3-cacf80dc98a0",
+      "DisplayName": "P09.CharstoString",
+      "ColorIndex": 8
+    },
+    "b626baa5-158a-4a67-8903-28097dee75c9": {
+      "ProjectGuid": "b626baa5-158a-4a67-8903-28097dee75c9",
+      "DisplayName": "P10.LowerOrUpper",
+      "ColorIndex": 9
+    },
+    "0343ed79-e2b6-48bb-8744-fa545ea2f90e": {
+      "ProjectGuid": "0343ed79-e2b6-48bb-8744-fa545ea2f90e",
+      "DisplayName": "P11.RefactorVolumeOfPyramid",
+      "ColorIndex": 10
+    },
+    "0eb7e4e5-3b86-4df1-bb7a-e5d297d9e317": {
+      "ProjectGuid": "0eb7e4e5-3b86-4df1-bb7a-e5d297d9e317",
+      "DisplayName": "P12.RefactorSpecialNumbers",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
