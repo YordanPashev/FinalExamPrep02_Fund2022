@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "945be1ff-76c8-436d-8251-8376243d1abc": {
+      "ProjectGuid": "945be1ff-76c8-436d-8251-8376243d1abc",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "aaa7bf8d-51b4-4b04-84d6-76d445e0015a": {
+      "ProjectGuid": "aaa7bf8d-51b4-4b04-84d6-76d445e0015a",
+      "DisplayName": "P07.WaterOverflow",
+      "ColorIndex": 1
+    },
+    "54dea6c8-dc66-4969-86a5-7e26332b1735": {
+      "ProjectGuid": "54dea6c8-dc66-4969-86a5-7e26332b1735",
+      "DisplayName": "P06.TriplesOfLatinLetters",
+      "ColorIndex": 2
+    },
+    "cbabd82d-8075-491b-a1f6-b0599d34ab73": {
+      "ProjectGuid": "cbabd82d-8075-491b-a1f6-b0599d34ab73",
+      "DisplayName": "P05.PrintPartOfASCIITable",
+      "ColorIndex": 3
+    },
+    "30c93145-ebe6-4ec4-801e-9fad4046f478": {
+      "ProjectGuid": "30c93145-ebe6-4ec4-801e-9fad4046f478",
+      "DisplayName": "P04.SumOfChars",
+      "ColorIndex": 4
+    },
+    "290469a3-977f-4f9e-8047-f4c26492db1d": {
+      "ProjectGuid": "290469a3-977f-4f9e-8047-f4c26492db1d",
+      "DisplayName": "P03.Elevator",
+      "ColorIndex": 5
+    },
+    "0867d100-945c-4cf6-9a89-0eb5e56de92a": {
+      "ProjectGuid": "0867d100-945c-4cf6-9a89-0eb5e56de92a",
+      "DisplayName": "P02.SumDigits",
+      "ColorIndex": 6
+    },
+    "3f6b21e0-1204-4548-a167-6f428079cd01": {
+      "ProjectGuid": "3f6b21e0-1204-4548-a167-6f428079cd01",
+      "DisplayName": "P01.IntegerOperations",
+      "ColorIndex": 7
+    },
+    "eac1ddf8-6aec-446f-b09b-ceeeb64ec469": {
+      "ProjectGuid": "eac1ddf8-6aec-446f-b09b-ceeeb64ec469",
+      "DisplayName": "P08.BeerKegs",
+      "ColorIndex": 8
+    },
+    "3dbc3006-5c00-47ff-9d33-3c8854b0097b": {
+      "ProjectGuid": "3dbc3006-5c00-47ff-9d33-3c8854b0097b",
+      "DisplayName": "P09.SpiceMustFlow",
+      "ColorIndex": 9
+    },
+    "bc1b20b1-2be2-4626-80a9-bf920343d854": {
+      "ProjectGuid": "bc1b20b1-2be2-4626-80a9-bf920343d854",
+      "DisplayName": "P10.PokeMon",
+      "ColorIndex": 10
+    },
+    "52c16489-671c-4764-a613-4c4dbb738147": {
+      "ProjectGuid": "52c16489-671c-4764-a613-4c4dbb738147",
+      "DisplayName": "P11.Snowballs",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
