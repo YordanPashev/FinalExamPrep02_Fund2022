@@ -1,0 +1,10 @@
+﻿<h1>Numbers Page</h1>
+
+<form method="POST">
+	<input type="text" placeholder="Please enter a digit" name="number"/>
+	<input type="submit" value="Submit"/>
+</form>
+@for (var i = 1; i <= ViewBag.NumberRange; i++)
+{
+	<p>Item @i</p>
+}

@@ -25,8 +25,24 @@ namespace Demo.Controllers
 
         public IActionResult Privacy()
         {
+            ViewBag.MagicalMessage = "New message";
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Numbers(int id)
+        {
+            ViewBag.NumberRange = id;
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Numbers(string number)
+        {
+            int numberRange = int.Parse(number);
+            ViewBag.NumberRange = numberRange;
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
