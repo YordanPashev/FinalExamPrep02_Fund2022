@@ -40,7 +40,17 @@
       "ProjectGuid": "ae46dbc5-917d-4e15-b68e-4bed0836c4b4",
       "DisplayName": "P08.CondenseArrayToNumber",
       "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a8591865-d967-4b30-bc04-56ddef207faa": {
+      "ProjectGuid": "a8591865-d967-4b30-bc04-56ddef207faa",
+      "DisplayName": "P05.SumEvenNumbers",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

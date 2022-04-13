@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _05.SumEvenNumbers
+namespace P05.SumEvenNumbers
 {
     internal class Program
     {
@@ -20,3 +20,4 @@ namespace _05.SumEvenNumbers
         }
     }
 }
+
