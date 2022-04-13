@@ -3,5 +3,7 @@
 
 [**2. Data Types and Variables**](https://github.com/YordanPashev/FundamentalsCSharp-2022/tree/main/DataTypesAndVariables)
 
+[**3. Arrays**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/Arrays/Arrays-Lab)
+
 [**Final Exam Preparation 2 - Fund2022**](https://github.com/YordanPashev/FundamentalsCSharp-2022/tree/main/FinalExamPrep)
 
