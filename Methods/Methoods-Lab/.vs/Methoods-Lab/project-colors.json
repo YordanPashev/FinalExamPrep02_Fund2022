@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88f35dbd-a1b5-45dd-9133-3e317afea2ee": {
+      "ProjectGuid": "88f35dbd-a1b5-45dd-9133-3e317afea2ee",
+      "DisplayName": "P01.SignOfIntegerNumbers",
+      "ColorIndex": 0
+    },
+    "6dc0b33e-e567-4fe9-b396-3b1d427cf97d": {
+      "ProjectGuid": "6dc0b33e-e567-4fe9-b396-3b1d427cf97d",
+      "DisplayName": "P02.Grades",
+      "ColorIndex": 1
+    },
+    "ff3e5f6a-9afd-4591-b91c-a7e65bb6a5f5": {
+      "ProjectGuid": "ff3e5f6a-9afd-4591-b91c-a7e65bb6a5f5",
+      "DisplayName": "P03.Calculations",
+      "ColorIndex": 2
+    },
+    "018cb621-0927-443b-bb9a-018362b6b921": {
+      "ProjectGuid": "018cb621-0927-443b-bb9a-018362b6b921",
+      "DisplayName": "P04.PrintingTriangle",
+      "ColorIndex": 3
+    },
+    "cc0632aa-4dbb-4e36-94dd-79ca2cbc5071": {
+      "ProjectGuid": "cc0632aa-4dbb-4e36-94dd-79ca2cbc5071",
+      "DisplayName": "P05.Orders",
+      "ColorIndex": 4
+    },
+    "58a6d1d9-74a4-42d9-8c11-0679acd4d6ff": {
+      "ProjectGuid": "58a6d1d9-74a4-42d9-8c11-0679acd4d6ff",
+      "DisplayName": "P06.CalculateRectangleArea",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
