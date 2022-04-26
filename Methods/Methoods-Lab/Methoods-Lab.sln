@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.MathPower", "P08.MathPo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.GreaterOfTwoValues", "P09.GreaterOfTwoValues\P09.GreaterOfTwoValues.csproj", "{31893CEF-2E3C-4B3B-BBCE-B8A24391F837}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10.MultiplyEvensByOdds", "P10.MultiplyEvensByOdds\P10.MultiplyEvensByOdds.csproj", "{309035FA-D3B9-4817-8074-A558F1E14F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11.MathOperations", "P11.MathOperations\P11.MathOperations.csproj", "{D5B31A09-DB29-4D93-9B18-9A19FCBE3D94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{31893CEF-2E3C-4B3B-BBCE-B8A24391F837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31893CEF-2E3C-4B3B-BBCE-B8A24391F837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31893CEF-2E3C-4B3B-BBCE-B8A24391F837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309035FA-D3B9-4817-8074-A558F1E14F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309035FA-D3B9-4817-8074-A558F1E14F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309035FA-D3B9-4817-8074-A558F1E14F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309035FA-D3B9-4817-8074-A558F1E14F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B31A09-DB29-4D93-9B18-9A19FCBE3D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B31A09-DB29-4D93-9B18-9A19FCBE3D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B31A09-DB29-4D93-9B18-9A19FCBE3D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B31A09-DB29-4D93-9B18-9A19FCBE3D94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
