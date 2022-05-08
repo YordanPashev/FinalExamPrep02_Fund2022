@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace P02.PascalTriangle
 {
@@ -6,7 +8,29 @@ namespace P02.PascalTriangle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numberOfLine = int.Parse(Console.ReadLine());
+
+            int[] currLineToCalculate = new int[numberOfLine];
+            List<int> nextLine = new List<int>(numberOfLine);
+
+            currLineToCalculate[0] = 1;
+            nextLine.Add(currLineToCalculate[0]);
+            nextLine = currLineToCalculate.ToList();
+
+            for (int row = 0; row < numberOfLine; row++)
+            {
+                Console.Write(currLineToCalculate[0] + " ");
+
+                for (int col = 0; col < row; col++)
+                {
+                    int currNumberToPrint = currLineToCalculate[col] + currLineToCalculate[col + 1];
+                    Console.Write(currNumberToPrint + " ");
+                    nextLine[col + 1] = currNumberToPrint;
+                }
+
+                currLineToCalculate = nextLine.ToArray();
+                Console.WriteLine();
+            }
         }
     }
 }

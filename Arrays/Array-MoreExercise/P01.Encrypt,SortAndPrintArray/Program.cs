@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace P01.Encrypt_SortAndPrintArray
 {
@@ -6,38 +8,91 @@ namespace P01.Encrypt_SortAndPrintArray
     {
         static void Main(string[] args)
         {
-            int lines = int.Parse(Console.ReadLine());
-            int[] scores = new int[lines];
+            var database = new Dictionary<string, List<string>>();
+            var forceUsers = new List<string>();
 
-            for (int i = 0; i < lines; i++)
+            string input = string.Empty;
+            while ((input = Console.ReadLine()) != "Lumpawaroo")
             {
-                string letter = Console.ReadLine();
-
-                int vowelsSum = 0;
-                int consonantSum = 0;
-
-                for (int j = 0; j < letter.Length; j++)
+                if (input.IndexOf(" | ") >= 0)
                 {
-                    if (letter[j] == 'a' || letter[j] == 'e' ||
-                        letter[j] == 'i' || letter[j] == 'o' || letter[j] == 'u' ||
-                        letter[j] == 'A' || letter[j] == 'E' ||
-                        letter[j] == 'I' || letter[j] == 'O' || letter[j] == 'U')
+                    string[] tokens = input.Split(" | ");
+                    string forceSide = tokens[0];
+                    string forceUser = tokens[1];
+
+                    if (!forceUsers.Contains(forceUser))
                     {
-                        vowelsSum += (int)letter[j] * letter.Length;
+                        if (!database.ContainsKey(forceSide))
+                        {
+                            database.Add(forceSide, new List<string>() { forceUser });
+                        }
+                        else
+                        {
+                            database[forceSide].Add(forceUser);
+                        }
+                    }
+
+                    forceUsers.Add(forceUser);
+                }
+                else
+                {
+                    string[] tokens = input.Split(" -> ");
+                    string forceUser = tokens[0];
+                    string forceSide = tokens[1];
+
+                    // change sides
+                    if (forceUsers.Contains(forceUser))
+                    {
+                        string userCurrentSide = string.Empty;
+                        foreach (var key in database.Keys)
+                        {
+                            if (database[key].Contains(forceUser))
+                            {
+                                userCurrentSide = key;
+                                break;
+                            }
+                        }
+
+                        if (!database.ContainsKey(forceSide))
+                        {
+                            database[forceSide] = new List<string>();
+                        }
+                        database[userCurrentSide].Remove(forceUser);
+                        database[forceSide].Add(forceUser);
                     }
                     else
                     {
-                        consonantSum += (int)letter[j] / letter.Length;
+                        if (!database.ContainsKey(forceSide))
+                        {
+                            database.Add(forceSide, new List<string>() { forceUser });
+                        }
+                        else
+                        {
+                            database[forceSide].Add(forceUser);
+                        }
+                    }
+
+                    Console.WriteLine($"{forceUser} joins the {forceSide} side!");
+                    if (!forceUsers.Contains(forceUser))
+                    {
+                        forceUsers.Add(forceUser);
                     }
                 }
-                scores[i] = consonantSum + vowelsSum;
             }
 
-            Array.Sort(scores);
 
-            foreach (int result in scores)
+            foreach (var item in database.OrderByDescending(x => x.Value.Count).ThenBy(x => x.Key))
             {
-                Console.WriteLine(result);
+                string forceSide = item.Key;
+                var members = item.Value;
+                if (members.Count > 0)
+                {
+                    Console.WriteLine($"Side: {forceSide}, Members: {members.Count}");
+                    foreach (var member in members.OrderBy(x => x))
+                    {
+                        Console.WriteLine($"! {member}");
+                    }
+                }
             }
         }
     }
