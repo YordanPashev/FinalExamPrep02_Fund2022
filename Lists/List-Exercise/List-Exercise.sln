@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07.AppendArrays", "P07.App
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08.AnonymousThreat", "P08.AnonymousThreat\P08.AnonymousThreat.csproj", "{37843565-5AB4-4E1F-B9AF-75454A60FEDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09.PokemonDon'tGo", "P09.PokemonDon'tGo\P09.PokemonDon'tGo.csproj", "{ABDA6EEC-2F92-4A05-8033-43FAEFA8A0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10.SoftUniCoursePlanning", "P10.SoftUniCoursePlanning\P10.SoftUniCoursePlanning.csproj", "{0E306884-4523-4A83-9F0B-1BD52EAD1110}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{37843565-5AB4-4E1F-B9AF-75454A60FEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37843565-5AB4-4E1F-B9AF-75454A60FEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37843565-5AB4-4E1F-B9AF-75454A60FEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDA6EEC-2F92-4A05-8033-43FAEFA8A0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDA6EEC-2F92-4A05-8033-43FAEFA8A0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDA6EEC-2F92-4A05-8033-43FAEFA8A0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDA6EEC-2F92-4A05-8033-43FAEFA8A0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E306884-4523-4A83-9F0B-1BD52EAD1110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E306884-4523-4A83-9F0B-1BD52EAD1110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E306884-4523-4A83-9F0B-1BD52EAD1110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E306884-4523-4A83-9F0B-1BD52EAD1110}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
