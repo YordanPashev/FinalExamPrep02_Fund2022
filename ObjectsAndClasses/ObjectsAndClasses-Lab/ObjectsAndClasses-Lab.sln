@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.RandomizeWords", "P01.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.BigFactorial", "P02.BigFactorial\P02.BigFactorial.csproj", "{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.Songs", "P03.Songs\P03.Songs.csproj", "{0F2D885C-5F18-4BD9-8C73-559C288F2BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.Students", "P04.Students\P04.Students.csproj", "{631B569D-FAAE-4348-8A88-4F0FAE68E09F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2D885C-5F18-4BD9-8C73-559C288F2BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2D885C-5F18-4BD9-8C73-559C288F2BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2D885C-5F18-4BD9-8C73-559C288F2BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2D885C-5F18-4BD9-8C73-559C288F2BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631B569D-FAAE-4348-8A88-4F0FAE68E09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631B569D-FAAE-4348-8A88-4F0FAE68E09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631B569D-FAAE-4348-8A88-4F0FAE68E09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631B569D-FAAE-4348-8A88-4F0FAE68E09F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
