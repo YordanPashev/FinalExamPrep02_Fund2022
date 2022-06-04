@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.RandomizeWords", "P01.RandomizeWords\P01.RandomizeWords.csproj", "{B4D1C800-B0D9-4134-A7E2-0832E7E23CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.BigFactorial", "P02.BigFactorial\P02.BigFactorial.csproj", "{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D1C800-B0D9-4134-A7E2-0832E7E23CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D1C800-B0D9-4134-A7E2-0832E7E23CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D1C800-B0D9-4134-A7E2-0832E7E23CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D1C800-B0D9-4134-A7E2-0832E7E23CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2405AB06-F3DD-44C2-A84A-33E5BC09DB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13BE674-180F-4C5E-80F9-1D8CD9F45837}
+	EndGlobalSection
+EndGlobal
