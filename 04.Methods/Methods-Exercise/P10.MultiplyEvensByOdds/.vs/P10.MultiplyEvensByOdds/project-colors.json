@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1f8a4ad-c023-49b9-b78a-5d3907c12bdb": {
+      "ProjectGuid": "a1f8a4ad-c023-49b9-b78a-5d3907c12bdb",
+      "DisplayName": "P10.MultiplyEvensByOdds",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
