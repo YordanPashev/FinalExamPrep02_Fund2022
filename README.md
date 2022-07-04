@@ -1,4 +1,4 @@
-# SoftUni Fundamentals C# - Feb 2022
+# CONTENTS
 
 [**1. Basic Syntax, Conditional Statements and Loops**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/01.BasicSyntax)
 
