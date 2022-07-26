@@ -1,6 +1,6 @@
 # CONTENTS
 
-[**1. Basic Syntax, Conditional Statements and Loops**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/01.BasicSyntax)
+[**1. Basic Syntax, Conditional Statements and Loops**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/01.Basic%20Syntax)
 
 [**2. Data Types and Variables**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/02.Data%20Typesa%20and%20Variables)
 
