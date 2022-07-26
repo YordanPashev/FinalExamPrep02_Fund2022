@@ -2,7 +2,7 @@
 
 [**1. Basic Syntax, Conditional Statements and Loops**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/01.BasicSyntax)
 
-[**2. Data Types and Variables**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/02.DataTypesAndVariables)
+[**2. Data Types and Variables**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/02.Data%20Typesa%20and%20Variables)
 
 [**3. Arrays**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/03.Arrays)
 
@@ -10,7 +10,7 @@
 
 [**5. Lists**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/05.Lists)
 
-[**6. Objects and Classes**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/06.ObjectsAndClasses)
+[**6. Objects and Classes**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/06.Objects%20and%20Classes)
 
 [**7. Associative Arrays**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/07.Associative%20Arrays)
 
