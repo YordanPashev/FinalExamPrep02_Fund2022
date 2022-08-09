@@ -14,7 +14,4 @@
 
 [**7. Associative Arrays**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/07.Associative%20Arrays)
 
-[**14. Basic Web Project**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/BasicWebProject)
-
-[**15.Final Exam Preparation**](https://github.com/YordanPashev/FundamentalsCSharp-2022/tree/main/FinalExamPrep)
 
