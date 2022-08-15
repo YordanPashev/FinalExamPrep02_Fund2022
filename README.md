@@ -12,7 +12,7 @@
 
 [**6. Objects and Classes**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/06.Objects%20and%20Classes)
 
-[**7. **](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/07.Associative%20Arrays)
+[**7. Associative Arrays**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/07.Associative%20Arrays)
 
 [**8. Text Processing**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/08.Text%20Processing)
 
