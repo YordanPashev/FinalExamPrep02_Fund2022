@@ -20,7 +20,7 @@
 
 [**10. Basic Web Project**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/10.Basic%20Web%20Project)
 
-[**11. Final%20Exam Preparation**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/11.Final%20Exam%20Preparation)
+[**11. Final Exam Preparation**](https://github.com/YordanPashev/FundamentalsCSharp-Jan2022/tree/main/11.Final%20Exam%20Preparation)
 
 
 
